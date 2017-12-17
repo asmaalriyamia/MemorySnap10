@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MemorySnap8-master.iml" filepath="$PROJECT_DIR$/MemorySnap8-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Dell\Downloads\MemorySnap8-master\MemorySnap8-master\project.iml" filepath="C:\Users\Dell\Downloads\MemorySnap8-master\MemorySnap8-master\project.iml" />
+      <module fileurl="file://C:\Users\Dell\Downloads\MemorySnap8-master\MemorySnap8-master\projectSnap-master.iml" filepath="C:\Users\Dell\Downloads\MemorySnap8-master\MemorySnap8-master\projectSnap-master.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_items" >
+        <item>ADD New Image</item>
+        <item>Noor Salim</item>
+        <item>Marwa Ahmed</item>
+        <item>Ameera Khalid</item>
+        <item>Nusaiba Mubaric</item>
+        <item>Amal Ahmed</item>
+        <item>Zeezo muhameed</item>
+        <item>AHD Yahya</item>
+        <item>Noor Salim</item>
+        <item>Marwa Ahmed</item>
+
+    </string-array>
+<string-array name="event_type">
+    <item>Wedding</item>
+    <item>Birthday</item>
+    <item>New Born</item>
+    <item>Graduation</item>
+    <item>Personal</item>
+    <item>product</item>
+</string-array>
+
+    <string-array name="location_region">
+        <item>Muscat</item>
+        <item>Batinah South</item>
+        <item>Batinah North</item>
+        <item>ALDakhliy</item>
+        <item>AlDhahra</item>
+        <item>AlWosta</item>
+        <item>Dhofar</item>
+        <item>AlBuraimi</item>
+    </string-array>
+    </resources>
+
+
+
+
